@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hua Yang
-- 👀 I’m currently interested in Deep Learning, Trustworthy AI, and their application.
 - 🌱 I’m currently learning how to cook.
 - 💞️ I love playing hearthstone legend, badminton and hiking.
 - 📫 How to reach me: yanghuattt@gmail.com
